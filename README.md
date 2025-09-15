@@ -1,1 +1,1 @@
-# allure-report-demo
+![My Photo](./assets/me.jpg)
